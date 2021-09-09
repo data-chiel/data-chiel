@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistics & machine learning
 - 🌱 I’m currently learning all the things
 - 💞️ I’m looking to collaborate on the stuff my bosses tell me to collaborate on
-- 📫 How to reach me slack
+- 📫 How to reach me? Slack!
 
 <!---
 data-chiel/data-chiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
